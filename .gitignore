@@ -1,6 +1,8 @@
 # ignore file with access credentials #
 #######################################
 
+PAMAP2_Dataset
+
 config.py
 
 # Byte-compiled / optimized / DLL files
